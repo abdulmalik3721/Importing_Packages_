@@ -1,0 +1,10 @@
+package learning_about_packages;
+
+public class Greetings {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
